@@ -86,6 +86,6 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 
 ## Join With ME!!
 <p align="left">
-<a href="https://www.linkedin.com/in/harsh-chaudhary-28389a248/" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="HarshChaudhary1312" height="30" width="50"/></a>
-<a href="https://www.linkedin.com/in/harsh-chaudhary-28389a248/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="harsh-chaudhary-28389a248" height="30" width="50"/></a>
+<a href="https://www.linkedin.com/in/harsh-chaudhary-28389a248/" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="HarshChaudhary1312" height="50" width="50"/></a>
+<a href="https://www.linkedin.com/in/harsh-chaudhary-28389a248/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="harsh-chaudhary-28389a248" height="50" width="50"/></a>
 </p>
