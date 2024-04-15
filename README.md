@@ -1,5 +1,5 @@
 # Hi, I'm Harsh Chaudhary! 👋
-I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To maintain a systematic record of my progress, I am diligently logging all the questions I tackle on a daily basis in this repository.
+I just wrapped up crushing 100 Leetcode challenges, all in Python! Keeping it all organized, I'm logging every single question I tackle daily in this repository. It's all about that systematic progress, you know.
 
 ## Index
 
@@ -75,12 +75,6 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 | :----- | :------- | :--------- | :------- |
 |`Solved` | 10 | 48 | 05 |
 
-## Folder - Topics
-
-| Folder | Topics Covered |
-| :----- | :------------- |
-| Tire 1 | `Binary Search` `Bit Manipulation` `Hash Table` `Heap` `Pointers` `Sorting` `Strings` `Two Pointers` |
-| Tire 2 | `Stack` `Queue` `Monotonic Stacks/Queue` `Sliding Windows` `LinkedList` `Recursion`|
 
 ## Join With ME!!
 <p align="left">
