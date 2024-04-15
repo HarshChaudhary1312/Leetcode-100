@@ -1,4 +1,4 @@
-# Hi, I'm Vishal Kumar Yadav! 👋
+# Hi, I'm Harsh Chaudhary! 👋
 I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To maintain a systematic record of my progress, I am diligently logging all the questions I tackle on a daily basis in this repository.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-1004&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-1004" /> </p>
@@ -86,7 +86,6 @@ I have embarked on a mission to conquer 100 Leetcode challenges (in Python). To 
 
 ## Join With ME!!
 <p align="left">
-<a href="https://github.com/Vishal-1004" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" alt="Vishal-1004" height="30" width="50"/></a>
-<a href="https://www.linkedin.com/in/vishal-kumar-yadav-8085a3232/" target="_blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="vishal-kumar-yadav-8085a3232" height="30" width="50"/></a>
-<a href="https://leetcode.com/vishal100403/" target="_blank"><img align="center" src="https://mayukhkchanda.github.io/portfolio/assets/images/leetcode-logo.png" alt="vishal100403" height="35" width="50"/></a>
+<a href="https://www.linkedin.com/in/harsh-chaudhary-28389a248/" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" alt="Vishal-1004" height="30" width="50"/></a>
+<a href="https://www.linkedin.com/in/harsh-chaudhary-28389a248/" target="_blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="vishal-kumar-yadav-8085a3232" height="30" width="50"/></a>
 </p>
