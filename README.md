@@ -1,5 +1,5 @@
 # Hi, I'm Harsh Chaudhary! 👋
-I just wrapped up crushing 100 Leetcode challenges, all in Python! Keeping it all organized, I'm logging every single question I tackle daily in this repository. It's all about that systematic progress, you know.
+I just wrapped up crushing 100 Leetcode challenges, all in Python! Keeping it all organized, I'm logging every single question I tackled  in this repository. It's all about that systematic progress, you know.
 
 ## Index
 
